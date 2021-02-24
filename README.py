@@ -97,4 +97,4 @@ while Li:
   new_list.append(minimum)
   Li.remove(minimum)
 
-print new_list
+print (new_list)
